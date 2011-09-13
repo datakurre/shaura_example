@@ -1,0 +1,2 @@
+include *.rst *.txt *.py
+recursive-include shaura_example *.py *.zcml *.pt *.ico *.txt *.html *.css *.js
